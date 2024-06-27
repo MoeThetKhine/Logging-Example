@@ -1,6 +1,5 @@
 using Serilog;
 using Serilog.Formatting.Compact;
-//using Serilog.Sinks.MSSqlServer;
 using Serilog.Templates;
 
 var builder = WebApplication.CreateBuilder(args);
