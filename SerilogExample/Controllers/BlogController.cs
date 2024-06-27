@@ -56,7 +56,6 @@ namespace SerilogExample.Controllers
                 return Ok();
         }
         #endregion
-
     }
 }
 
